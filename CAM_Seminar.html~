@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><link href="pubs_files/mystyle.css" rel="stylesheet" type="text/css"><title>
+	
+    CAM Seminar
+
+</title></head>
+<body>
+<div id="container">
+    <form method="post" action="schedule.aspx" id="form">
+<div class="aspNetHidden">
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkOHOPQZTrpeRtWpFGxTuZIudUch0QtMvbhEIDkxgttQQ=" type="hidden">
+</div>
+
+    <table cellspacing="0" width="100%">       
+      <tbody><tr> 
+        <td colspan="2" height="100">
+            <div id="header">
+                <div id="logo">
+                    <p class="t1" align="center">
+                        Computational & Applied Mathematics (CAM) Seminar <br> 
+                    </p>
+                    <p class="MsoNormal" align="left">
+        <span style="font-size:16.0pt;color:#E36C0A" lang="EN-US">Friday, 2pm - 4pm, Location: Lecture Room 4, Floor 2, Jin Chun Yuan West 
+        Building<span style="color:#E36C0A"><o:p></o:p></span></span></p>
+     
+        </div></div></td> 
+      </tr>
+
+     <tr> 
+          <td colspan="2" bgcolor="#996633" height="2"></td> 
+      </tr>
+      
+      
+        
+        <tr><td valign="top" width="700">
+            <div id="maincontent">
+
+   <p class="MsoNormal">
+        <b>
+        <span style="font-size:16.0pt;line-height:150%;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;color:#31849B;mso-themecolor:accent5;mso-themeshade:
+191" lang="EN-US">Title: Numerical Relativity and Gravitational Wave detection <o:p></o:p></span></b></p>
+<p class="MsoNormal" align="left">
+        <span style="font-size:16.0pt;color:#31849B" lang="EN-US">Speaker: Cao Zhoujian, CAS, （曹周键，中科院数学所）<o:p></o:p></span></b></p>
+
+    <p class="MsoNormal" align="left">
+        <span style="font-size:16.0pt;color:#31849B" lang="EN-US">Time: Mar. 11<o:p></o:p></span></b></p>
+	
+<p class="MsoNormal" align="left">
+        <span style="font-size:16.0pt;color:#31849B" lang="EN-US">Abstract：<o:p></o:p></span>
+
+<span style="font-size:14.0pt;line-height:130%;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;" lang="EN-US">    
+The sucess of GW150914 is a combination the breakthroughs of experimental technologies and theoretical research. The effective one body numerical relativity model (EOBNR) played a key role in the data analysis. It diged out the data envoloped in the noise and realized 5.1 sigma confidence level. And more it recoginized the gravitational wave source is a merging binary black hole system. In this talk I will introduce how the theoretical model can do such a powerful work. After that I will introduce the related issues in the numerical relativity.
+<o:p></o:p></span>
+                
+  
+    
+
+
+    
+
+
+
+</body></html>
